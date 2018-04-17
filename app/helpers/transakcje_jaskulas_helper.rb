@@ -1,0 +1,2 @@
+module TransakcjeJaskulasHelper
+end

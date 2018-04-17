@@ -1,0 +1,2 @@
+class KlienciJaskula < ApplicationRecord
+end

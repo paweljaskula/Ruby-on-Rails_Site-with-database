@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Tabela Transakcji</title>
+    <style type="text/css">
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.content{
+  padding-top: 50px;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    width: 100px;
+}
+#id{
+  width: 20px;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+    </style>
+    
+  </head>
+  <body>
+    <div class="content">
+      <h1><b>Jaskula Paweł 44185</b></h1>
+      <h4>Tabela transakcji</h4>
+    </div>
+    <table>
+      <tr>
+          <th>Username</th>
+          <th>Kwota</th>
+          <th>Data</th>
+          <th></th>
+          <th></th>
+          <th></th>
+    </tr>
+    </table>
+    <% @transakcje_jaskulas.each do |transakcje_jaskula| %>
+    <table>
+      
+      <tr>
+        <td><%= transakcje_jaskula.username %></td>
+        <td><%= transakcje_jaskula.kwota %> zł</td>
+        <td><%= transakcje_jaskula.data %></td>
+        <td><%= link_to 'Show', transakcje_jaskula %></td>
+        <td><%= link_to 'Edit', edit_transakcje_jaskula_path(transakcje_jaskula) %></td>
+        <td><%= link_to 'Destroy', transakcje_jaskula, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    </table>
+    <% end %>
+    <%= link_to 'New Transakcje Jaskula', new_transakcje_jaskula_path %>
+    <footer>
+      
+      <ul>
+          <li><a href="indexJaskula">Główna</a></li>
+          <li><a href="pierwszaJaskula">Informacje</a></li>
+          <li><a href="drugaJaskula">Klienci</a></li>
+          <li><a href="trzeciaJaskula">Cennik</a></li>
+          <li class="active"><a href="czwartaJaskula">Transakcje</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>
+

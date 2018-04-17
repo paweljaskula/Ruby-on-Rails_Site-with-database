@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Jaskuła Paweł 44185</title>
+		<style type="text/css">
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.content{
+	padding-top: 20px;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
+
+		</style>
+		
+	</head>
+	<body>
+		<div class="content">
+			<h1>Jaskuła Paweł 44185</h1>
+		</div>
+		<h3>Informacje:</h3>
+		<p>Moje imie i nazwisko: <%= @imieJaskula %> <%= @nazwiskoJaskula%></p>
+		<p>Nazwa firmy: <%= @nazwaJaskula%></p>
+		<p>Losowe imie i nazwisko kolegi: <%= @randomJaskula.sample %></p>
+		<p>O firmie: <%= @infoJaskula %></p>
+		<footer>
+			
+			<ul>
+  				<li><a href="indexJaskula">Główna</a></li>
+  				<li class="active"><a href="pierwszaJaskula">Informacje</a></li>
+  				<li><a href="drugaJaskula">Klienci</a></li>
+  				<li><a href="trzeciaJaskula">Cennik</a></li>
+  				<li><a href="czwartaJaskula">Transakcje</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>

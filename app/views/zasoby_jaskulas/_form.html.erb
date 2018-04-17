@@ -1,0 +1,27 @@
+<%= form_with(model: zasoby_jaskula, local: true) do |form| %>
+  <% if zasoby_jaskula.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(zasoby_jaskula.errors.count, "error") %> prohibited this zasoby_jaskula from being saved:</h2>
+
+      <ul>
+      <% zasoby_jaskula.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :nazwa %>
+    <%= form.text_field :nazwa, id: :zasoby_jaskula_nazwa %>
+  </div>
+
+  <div class="field">
+    <%= form.label :cena %>
+    <%= form.number_field :cena, id: :zasoby_jaskula_cena %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,1821 @@
+Started GET "/" for 127.0.0.1 at 2018-03-19 14:15:59 +0100
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.5/lib/rails/templates/rails/welcome/index.html.erb (14.0ms)
+Completed 200 OK in 561ms (Views: 57.2ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:38:13 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1275ms (Views: 1253.8ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:38:57 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 80ms
+
+
+  
+SyntaxError (C:/Users/student/Desktop/RailsJaskula/W10_Jaskula_kol2/app/views/info_jaskula/wyswietl.html.erb:48: syntax error, unexpected tIVAR, expecting ')'
+...( @imieJaskula @nazwiskoJaskula );@output_buffer.safe_append...
+...                               ^):
+  
+app/views/info_jaskula/wyswietl.html.erb:48: syntax error, unexpected tIVAR, expecting ')'
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:39:15 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 130ms (Views: 104.6ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:39:47 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 127ms (Views: 104.9ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:40 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 130ms (Views: 109.8ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:41 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 120ms (Views: 98.7ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:42 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 117ms (Views: 96.7ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:42 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 119ms (Views: 98.9ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:43 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 121ms (Views: 96.4ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:43 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 120ms (Views: 99.7ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:44 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 124ms (Views: 98.0ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:44 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 117ms (Views: 95.0ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:44 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 118ms (Views: 96.3ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:44 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 117ms (Views: 91.0ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:45 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 112ms (Views: 90.8ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:45 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 115ms (Views: 93.2ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:40:45 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 112ms (Views: 92.1ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:43:25 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 133ms (Views: 109.8ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:43:26 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 120ms (Views: 99.3ms)
+
+
+Started GET "/info_jaskula/wyswietl" for 127.0.0.1 at 2018-03-19 14:43:26 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 126ms (Views: 98.0ms)
+
+
+Started GET "/info_jaskula/indexJaskula" for 127.0.0.1 at 2018-03-19 14:43:27 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/info_jaskula/indexJaskula"):
+  
+actionpack (5.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.5) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.5) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 14:43:41 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 125ms (Views: 102.1ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 14:43:43 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 132ms (Views: 110.9ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 14:43:44 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 126ms (Views: 105.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 14:43:45 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 128ms (Views: 102.9ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 14:46:09 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 134ms (Views: 113.0ms)
+
+
+Started GET "/klienciJaskula" for 127.0.0.1 at 2018-03-19 14:48:15 +0100
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.5) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.5) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.5) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.5) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.5) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.5) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/klienciJaskulas" for 127.0.0.1 at 2018-03-19 14:48:22 +0100
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.5) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.5) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.5) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.5) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.5) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.5) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (10.0ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (11.0ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateKlienciJaskulas (20180319134752)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE TABLE "klienci_jaskulas" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "imie" varchar, "nazwisko" varchar, "wiek" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180319134752"]]
+  [1m[35m (7.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-03-19 13:48:52.365872"], ["updated_at", "2018-03-19 13:48:52.365872"]]
+  [1m[35m (4.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/klienciJaskulas" for 127.0.0.1 at 2018-03-19 14:48:54 +0100
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/klienciJaskulas"):
+  
+actionpack (5.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.5) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.5) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/klienciJaskula" for 127.0.0.1 at 2018-03-19 14:51:00 +0100
+  
+ActionController::RoutingError (No route matches [GET] "/klienciJaskula"):
+  
+actionpack (5.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.5) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.5) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:51:41 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 295ms (Views: 264.7ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/klienci_jaskulas/new" for 127.0.0.1 at 2018-03-19 14:51:47 +0100
+Processing by KlienciJaskulasController#new as HTML
+  Rendering klienci_jaskulas/new.html.erb within layouts/application
+  Rendered klienci_jaskulas/_form.html.erb (40.0ms)
+  Rendered klienci_jaskulas/new.html.erb within layouts/application (63.0ms)
+Completed 200 OK in 197ms (Views: 168.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:51:53 +0100
+Processing by KlienciJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"rtfvnUNCEFpJqIvlBPAe4D5yFe+x10pA5rOmwGQ87MNDz7p0KgbDU9J5O4vSAuxaXVgpXGD3hpY4KlTwnGHqDw==", "klienci_jaskula"=>{"imie"=>"Jan ", "nazwisko"=>"Kowalski", "wiek"=>"33"}, "commit"=>"Create Klienci jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "klienci_jaskulas" ("imie", "nazwisko", "wiek", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["imie", "Jan "], ["nazwisko", "Kowalski"], ["wiek", 33], ["created_at", "2018-03-19 13:51:53.827854"], ["updated_at", "2018-03-19 13:51:53.827854"]]
+  [1m[35m (5.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/klienci_jaskulas/1
+Completed 302 Found in 16ms (ActiveRecord: 7.0ms)
+
+
+Started GET "/klienci_jaskulas/1" for 127.0.0.1 at 2018-03-19 14:51:53 +0100
+Processing by KlienciJaskulasController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT  "klienci_jaskulas".* FROM "klienci_jaskulas" WHERE "klienci_jaskulas"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering klienci_jaskulas/show.html.erb within layouts/application
+  Rendered klienci_jaskulas/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 143ms (Views: 104.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:51:55 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 133ms (Views: 112.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas/new" for 127.0.0.1 at 2018-03-19 14:51:56 +0100
+Processing by KlienciJaskulasController#new as HTML
+  Rendering klienci_jaskulas/new.html.erb within layouts/application
+  Rendered klienci_jaskulas/_form.html.erb (3.0ms)
+  Rendered klienci_jaskulas/new.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 154ms (Views: 133.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:53:26 +0100
+Processing by KlienciJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EKbjuNqpC3CHWBlSeWZilCyXvPK8iIHHneUGeklPgC39vrZRs+3YeRyJqTyvlJAuT72AQW2oTRFDfPRKsRKG4Q==", "klienci_jaskula"=>{"imie"=>"Ola", "nazwisko"=>"Tomaszek", "wiek"=>"22"}, "commit"=>"Create Klienci jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (4.0ms)[0m  [1m[32mINSERT INTO "klienci_jaskulas" ("imie", "nazwisko", "wiek", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["imie", "Ola"], ["nazwisko", "Tomaszek"], ["wiek", 22], ["created_at", "2018-03-19 13:53:26.687099"], ["updated_at", "2018-03-19 13:53:26.687099"]]
+  [1m[35m (5.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/klienci_jaskulas/2
+Completed 302 Found in 18ms (ActiveRecord: 9.0ms)
+
+
+Started GET "/klienci_jaskulas/2" for 127.0.0.1 at 2018-03-19 14:53:26 +0100
+Processing by KlienciJaskulasController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT  "klienci_jaskulas".* FROM "klienci_jaskulas" WHERE "klienci_jaskulas"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering klienci_jaskulas/show.html.erb within layouts/application
+  Rendered klienci_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 148ms (Views: 123.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:53:28 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 129ms (Views: 105.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas/new" for 127.0.0.1 at 2018-03-19 14:53:29 +0100
+Processing by KlienciJaskulasController#new as HTML
+  Rendering klienci_jaskulas/new.html.erb within layouts/application
+  Rendered klienci_jaskulas/_form.html.erb (4.0ms)
+  Rendered klienci_jaskulas/new.html.erb within layouts/application (27.0ms)
+Completed 200 OK in 155ms (Views: 134.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:53:43 +0100
+Processing by KlienciJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"4vLkp2q5HZAx8Y4GxRXwKlPQBqhbDXjuvSWSFSEO59kP6rFOA/3OmaogPmgT5wKQMPo6G4ottDhjvGAl2VPhFQ==", "klienci_jaskula"=>{"imie"=>"Krystian", "nazwisko"=>"Krul", "wiek"=>"19"}, "commit"=>"Create Klienci jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "klienci_jaskulas" ("imie", "nazwisko", "wiek", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["imie", "Krystian"], ["nazwisko", "Krul"], ["wiek", 19], ["created_at", "2018-03-19 13:53:43.759778"], ["updated_at", "2018-03-19 13:53:43.759778"]]
+  [1m[35m (4.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/klienci_jaskulas/3
+Completed 302 Found in 16ms (ActiveRecord: 6.0ms)
+
+
+Started GET "/klienci_jaskulas/3" for 127.0.0.1 at 2018-03-19 14:53:43 +0100
+Processing by KlienciJaskulasController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT  "klienci_jaskulas".* FROM "klienci_jaskulas" WHERE "klienci_jaskulas"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering klienci_jaskulas/show.html.erb within layouts/application
+  Rendered klienci_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 132ms (Views: 106.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:53:44 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 247ms (Views: 135.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas/new" for 127.0.0.1 at 2018-03-19 14:53:45 +0100
+Processing by KlienciJaskulasController#new as HTML
+  Rendering klienci_jaskulas/new.html.erb within layouts/application
+  Rendered klienci_jaskulas/_form.html.erb (3.0ms)
+  Rendered klienci_jaskulas/new.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 152ms (Views: 130.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:53:55 +0100
+Processing by KlienciJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZH4jZPuoFDHbXbUw8rJOQn7281h9rLZ8P6vEFf0L+WKJZnaNkuzHOECMBV4kQLz4HdzP66yMeqrhMjYlBVb/rg==", "klienci_jaskula"=>{"imie"=>"Bartosz", "nazwisko"=>"Ignacik", "wiek"=>"42"}, "commit"=>"Create Klienci jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "klienci_jaskulas" ("imie", "nazwisko", "wiek", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["imie", "Bartosz"], ["nazwisko", "Ignacik"], ["wiek", 42], ["created_at", "2018-03-19 13:53:55.802551"], ["updated_at", "2018-03-19 13:53:55.802551"]]
+  [1m[35m (6.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/klienci_jaskulas/4
+Completed 302 Found in 13ms (ActiveRecord: 7.0ms)
+
+
+Started GET "/klienci_jaskulas/4" for 127.0.0.1 at 2018-03-19 14:53:55 +0100
+Processing by KlienciJaskulasController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT  "klienci_jaskulas".* FROM "klienci_jaskulas" WHERE "klienci_jaskulas"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  Rendering klienci_jaskulas/show.html.erb within layouts/application
+  Rendered klienci_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 138ms (Views: 112.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:53:57 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 134ms (Views: 110.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas/new" for 127.0.0.1 at 2018-03-19 14:53:58 +0100
+Processing by KlienciJaskulasController#new as HTML
+  Rendering klienci_jaskulas/new.html.erb within layouts/application
+  Rendered klienci_jaskulas/_form.html.erb (2.0ms)
+  Rendered klienci_jaskulas/new.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 161ms (Views: 141.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:54:08 +0100
+Processing by KlienciJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"uu94tc+B9Tacm1ALzLWEpoqOuZRfg5Bi16OlKwf8E4RX9y1cpsUmPwdK4GUaR3Yc6aSFJ46jXLQJOlcb/6EVSA==", "klienci_jaskula"=>{"imie"=>"Zygmunt ", "nazwisko"=>"Dzwon", "wiek"=>"37"}, "commit"=>"Create Klienci jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "klienci_jaskulas" ("imie", "nazwisko", "wiek", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["imie", "Zygmunt "], ["nazwisko", "Dzwon"], ["wiek", 37], ["created_at", "2018-03-19 13:54:08.479312"], ["updated_at", "2018-03-19 13:54:08.479312"]]
+  [1m[35m (4.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/klienci_jaskulas/5
+Completed 302 Found in 13ms (ActiveRecord: 5.0ms)
+
+
+Started GET "/klienci_jaskulas/5" for 127.0.0.1 at 2018-03-19 14:54:08 +0100
+Processing by KlienciJaskulasController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT  "klienci_jaskulas".* FROM "klienci_jaskulas" WHERE "klienci_jaskulas"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  Rendering klienci_jaskulas/show.html.erb within layouts/application
+  Rendered klienci_jaskulas/show.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 144ms (Views: 117.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:54:12 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 136ms (Views: 115.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 14:59:08 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 148ms (Views: 124.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 15:01:53 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 138ms (Views: 116.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas/1" for 127.0.0.1 at 2018-03-19 15:02:09 +0100
+Processing by KlienciJaskulasController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT  "klienci_jaskulas".* FROM "klienci_jaskulas" WHERE "klienci_jaskulas"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering klienci_jaskulas/show.html.erb within layouts/application
+  Rendered klienci_jaskulas/show.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 125ms (Views: 100.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/klienci_jaskulas/1/edit" for 127.0.0.1 at 2018-03-19 15:02:13 +0100
+Processing by KlienciJaskulasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT  "klienci_jaskulas".* FROM "klienci_jaskulas" WHERE "klienci_jaskulas"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering klienci_jaskulas/edit.html.erb within layouts/application
+  Rendered klienci_jaskulas/_form.html.erb (3.0ms)
+  Rendered klienci_jaskulas/edit.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 158ms (Views: 133.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 15:02:45 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 143ms (Views: 119.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 15:02:59 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 135ms (Views: 107.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/klienci_jaskulas" for 127.0.0.1 at 2018-03-19 15:04:28 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 148ms (Views: 125.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:04:34 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 133ms (Views: 106.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:06:02 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 140ms (Views: 115.9ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:06:04 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 142ms (Views: 115.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:06:06 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 137ms (Views: 114.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:06:07 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 123ms (Views: 101.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:06:08 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 131ms (Views: 108.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:06:09 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 252ms (Views: 228.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:06:11 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 153ms (Views: 131.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:06:12 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 125ms (Views: 101.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:06:12 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 125ms (Views: 101.4ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateZasobyJaskulas (20180319140822)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (4.0ms)[0m  [1m[35mCREATE TABLE "zasoby_jaskulas" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "nazwa" varchar, "cena" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180319140822"]]
+  [1m[35m (5.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:12:38 +0100
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 233ms (Views: 210.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:12:39 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (35.0ms)
+Completed 200 OK in 278ms (Views: 248.0ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:12:43 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 141ms (Views: 107.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:12:50 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 134ms (Views: 108.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:13:30 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 137ms (Views: 113.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:13:31 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 137ms (Views: 114.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:13:32 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 137ms (Views: 115.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:13:33 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (1.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 140ms (Views: 117.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:15:32 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (1.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 150ms (Views: 127.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:15:34 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 135ms (Views: 114.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:15:38 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 140ms (Views: 118.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:15:39 +0100
+Processing by ZasobyJaskulasController#new as HTML
+  Rendering zasoby_jaskulas/new.html.erb within layouts/application
+  Rendered zasoby_jaskulas/_form.html.erb (2.0ms)
+  Rendered zasoby_jaskulas/new.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 176ms (Views: 132.8ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:16:03 +0100
+Processing by ZasobyJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"s5pB1gtd3G1tI+RnZ1vAeLZPyLQQX+xlYXtXB1WMaCqfuAzWOu5cnJdya0jmmL6pWHcRJYzT63ENixvMFNN/oA==", "zasoby_jaskula"=>{"nazwa"=>"Kurs uzupełniający", "cena"=>"200"}, "commit"=>"Create Zasoby jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.0ms)[0m  [1m[32mINSERT INTO "zasoby_jaskulas" ("nazwa", "cena", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["nazwa", "Kurs uzupełniający"], ["cena", 200], ["created_at", "2018-03-19 14:16:03.638873"], ["updated_at", "2018-03-19 14:16:03.638873"]]
+  [1m[35m (4.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/zasoby_jaskulas/1
+Completed 302 Found in 15ms (ActiveRecord: 7.0ms)
+
+
+Started GET "/zasoby_jaskulas/1" for 127.0.0.1 at 2018-03-19 15:16:03 +0100
+Processing by ZasobyJaskulasController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mZasobyJaskula Load (1.0ms)[0m  [1m[34mSELECT  "zasoby_jaskulas".* FROM "zasoby_jaskulas" WHERE "zasoby_jaskulas"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering zasoby_jaskulas/show.html.erb within layouts/application
+  Rendered zasoby_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 144ms (Views: 116.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:16:05 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 134ms (Views: 112.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:16:26 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 144ms (Views: 121.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:16:30 +0100
+Processing by ZasobyJaskulasController#new as HTML
+  Rendering zasoby_jaskulas/new.html.erb within layouts/application
+  Rendered zasoby_jaskulas/_form.html.erb (2.0ms)
+  Rendered zasoby_jaskulas/new.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 156ms (Views: 134.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:17:14 +0100
+Processing by ZasobyJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"78B5BsIVqPUp6fDZrEdKWQBqJ1gs2ICDmVWDH8NU2cTD4jQG86YoBNO4f/YthDSI7lL+ybBUh5f1pc/UggvOTg==", "zasoby_jaskula"=>{"nazwa"=>"Kurs wspinaczki po drogach ubezpieczonych", "cena"=>"455"}, "commit"=>"Create Zasoby jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.0ms)[0m  [1m[32mINSERT INTO "zasoby_jaskulas" ("nazwa", "cena", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["nazwa", "Kurs wspinaczki po drogach ubezpieczonych"], ["cena", 455], ["created_at", "2018-03-19 14:17:14.683703"], ["updated_at", "2018-03-19 14:17:14.683703"]]
+  [1m[35m (6.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/zasoby_jaskulas/2
+Completed 302 Found in 18ms (ActiveRecord: 9.0ms)
+
+
+Started GET "/zasoby_jaskulas/2" for 127.0.0.1 at 2018-03-19 15:17:14 +0100
+Processing by ZasobyJaskulasController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT  "zasoby_jaskulas".* FROM "zasoby_jaskulas" WHERE "zasoby_jaskulas"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering zasoby_jaskulas/show.html.erb within layouts/application
+  Rendered zasoby_jaskulas/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 142ms (Views: 116.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:17:15 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 126ms (Views: 103.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:17:20 +0100
+Processing by ZasobyJaskulasController#new as HTML
+  Rendering zasoby_jaskulas/new.html.erb within layouts/application
+  Rendered zasoby_jaskulas/_form.html.erb (2.0ms)
+  Rendered zasoby_jaskulas/new.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 157ms (Views: 137.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:17:39 +0100
+Processing by ZasobyJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"F0YvUEZ3WrmrYAeFRaNbgP5t+fZj/j0vSjFYibhGl807ZGJQd8TaSFExiKrEYCVREFUgZ/9yOjsmwRRC+RmARw==", "zasoby_jaskula"=>{"nazwa"=>"Kurs wspinaczki na własnej asekuracji", "cena"=>"510"}, "commit"=>"Create Zasoby jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "zasoby_jaskulas" ("nazwa", "cena", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["nazwa", "Kurs wspinaczki na własnej asekuracji"], ["cena", 510], ["created_at", "2018-03-19 14:17:39.975259"], ["updated_at", "2018-03-19 14:17:39.975259"]]
+  [1m[35m (4.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/zasoby_jaskulas/3
+Completed 302 Found in 10ms (ActiveRecord: 4.0ms)
+
+
+Started GET "/zasoby_jaskulas/3" for 127.0.0.1 at 2018-03-19 15:17:39 +0100
+Processing by ZasobyJaskulasController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT  "zasoby_jaskulas".* FROM "zasoby_jaskulas" WHERE "zasoby_jaskulas"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering zasoby_jaskulas/show.html.erb within layouts/application
+  Rendered zasoby_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 138ms (Views: 114.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:17:41 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 207ms (Views: 119.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:17:43 +0100
+Processing by ZasobyJaskulasController#new as HTML
+  Rendering zasoby_jaskulas/new.html.erb within layouts/application
+  Rendered zasoby_jaskulas/_form.html.erb (2.0ms)
+  Rendered zasoby_jaskulas/new.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 155ms (Views: 132.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:18:02 +0100
+Processing by ZasobyJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"yYaSqKfFm15neGt2zw+lTXfe58NyLak+IX5P+nuFsTrlpN+olnYbr50p5FlOzNucmeY+Uu6hripNjgMxOtqmsA==", "zasoby_jaskula"=>{"nazwa"=>"Podstawowy kurs wspinaczki skalnej", "cena"=>"433"}, "commit"=>"Create Zasoby jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "zasoby_jaskulas" ("nazwa", "cena", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["nazwa", "Podstawowy kurs wspinaczki skalnej"], ["cena", 433], ["created_at", "2018-03-19 14:18:02.914965"], ["updated_at", "2018-03-19 14:18:02.914965"]]
+  [1m[35m (5.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/zasoby_jaskulas/4
+Completed 302 Found in 15ms (ActiveRecord: 7.0ms)
+
+
+Started GET "/zasoby_jaskulas/4" for 127.0.0.1 at 2018-03-19 15:18:02 +0100
+Processing by ZasobyJaskulasController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT  "zasoby_jaskulas".* FROM "zasoby_jaskulas" WHERE "zasoby_jaskulas"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  Rendering zasoby_jaskulas/show.html.erb within layouts/application
+  Rendered zasoby_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 138ms (Views: 113.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:18:03 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 131ms (Views: 108.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:18:10 +0100
+Processing by ZasobyJaskulasController#new as HTML
+  Rendering zasoby_jaskulas/new.html.erb within layouts/application
+  Rendered zasoby_jaskulas/_form.html.erb (2.0ms)
+  Rendered zasoby_jaskulas/new.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 155ms (Views: 133.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:18:19 +0100
+Processing by ZasobyJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"D3H9WCE94YwWvAKA0ph1n9e6m+NEypdtgPPomhQBvOMjU7BYEI5hfeztja9TWwtOOYJCcthGkHnsA6RRVV6raQ==", "zasoby_jaskula"=>{"nazwa"=>"Kurs taternicki", "cena"=>"670"}, "commit"=>"Create Zasoby jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "zasoby_jaskulas" ("nazwa", "cena", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["nazwa", "Kurs taternicki"], ["cena", 670], ["created_at", "2018-03-19 14:18:19.137031"], ["updated_at", "2018-03-19 14:18:19.137031"]]
+  [1m[35m (3.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/zasoby_jaskulas/5
+Completed 302 Found in 12ms (ActiveRecord: 4.0ms)
+
+
+Started GET "/zasoby_jaskulas/5" for 127.0.0.1 at 2018-03-19 15:18:19 +0100
+Processing by ZasobyJaskulasController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT  "zasoby_jaskulas".* FROM "zasoby_jaskulas" WHERE "zasoby_jaskulas"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  Rendering zasoby_jaskulas/show.html.erb within layouts/application
+  Rendered zasoby_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 130ms (Views: 106.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:18:22 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 137ms (Views: 117.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:19:16 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (1.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 138ms (Views: 115.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:19:17 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 135ms (Views: 112.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/zasoby_jaskulas" for 127.0.0.1 at 2018-03-19 15:19:19 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 133ms (Views: 113.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:19:22 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 127ms (Views: 105.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:19:25 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 133ms (Views: 113.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:19:29 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 136ms (Views: 115.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:19:47 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 144ms (Views: 123.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:19:49 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 133ms (Views: 110.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:19:51 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 130ms (Views: 110.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:21:09 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (1.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 153ms (Views: 125.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:29:59 +0100
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.5) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.5) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.5) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.5) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.5) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.5) lib/rails/engine.rb:522:in `call'
+puma (3.11.3) lib/puma/configuration.rb:225:in `call'
+puma (3.11.3) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.3) lib/puma/server.rb:438:in `process_client'
+puma (3.11.3) lib/puma/server.rb:302:in `block in run'
+puma (3.11.3) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateTransakcjeJaskulas (20180319142317)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (4.0ms)[0m  [1m[35mCREATE TABLE "transakcje_jaskulas" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "username" varchar, "kwota" integer, "data" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180319142317"]]
+  [1m[35m (5.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:30:20 +0100
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (1.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 250ms (Views: 222.4ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:30:24 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 145ms (Views: 121.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:30:25 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 156ms (Views: 122.2ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:30:26 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 141ms (Views: 121.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/czwartaJaskula" for 127.0.0.1 at 2018-03-19 15:30:28 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (23.0ms)
+Completed 500 Internal Server Error in 109ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    71:           <th></th>
+    72:     </tr>
+    73:     </table>
+    74:     <% @klienci_jaskulas.each do |klienci_jaskula| %>
+    75:     <table>
+    76:       
+    77:       <tr>
+  
+app/views/transakcje_jaskulas/index.html.erb:74:in `_app_views_transakcje_jaskulas_index_html_erb__468789853_107291928'
+Started GET "/czwartaJaskula" for 127.0.0.1 at 2018-03-19 15:31:06 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (22.0ms)
+Completed 500 Internal Server Error in 110ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    71:           <th></th>
+    72:     </tr>
+    73:     </table>
+    74:     <% @zasoby_jaskulas.each do |transakcje_jaskula| %>
+    75:     <table>
+    76:       
+    77:       <tr>
+  
+app/views/transakcje_jaskulas/index.html.erb:74:in `_app_views_transakcje_jaskulas_index_html_erb__468789853_100922196'
+Started GET "/czwartaJaskula" for 127.0.0.1 at 2018-03-19 15:31:35 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 161ms (Views: 137.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/transakcje_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:31:37 +0100
+Processing by TransakcjeJaskulasController#new as HTML
+  Rendering transakcje_jaskulas/new.html.erb within layouts/application
+  Rendered transakcje_jaskulas/_form.html.erb (4.0ms)
+  Rendered transakcje_jaskulas/new.html.erb within layouts/application (28.0ms)
+Completed 200 OK in 180ms (Views: 153.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/transakcje_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:32:24 +0100
+Processing by TransakcjeJaskulasController#new as HTML
+  Rendering transakcje_jaskulas/new.html.erb within layouts/application
+  Rendered transakcje_jaskulas/_form.html.erb (3.0ms)
+  Rendered transakcje_jaskulas/new.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 173ms (Views: 149.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:32:40 +0100
+Processing by TransakcjeJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vngR2ubVQDeivUbuVoindZCP7jrzA9+3zTCEakX1w9DrS3w9QVdkECfYO0T90CnDUQn4IleVQ389xyuCAFStDQ==", "transakcje_jaskula"=>{"username"=>"ilonka123", "kwota"=>"1200", "data"=>"w"}, "commit"=>"Create Transakcje jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "transakcje_jaskulas" ("username", "kwota", "data", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["username", "ilonka123"], ["kwota", 1200], ["data", "w"], ["created_at", "2018-03-19 14:32:40.578940"], ["updated_at", "2018-03-19 14:32:40.578940"]]
+  [1m[35m (5.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/transakcje_jaskulas/1
+Completed 302 Found in 18ms (ActiveRecord: 6.0ms)
+
+
+Started GET "/transakcje_jaskulas/1" for 127.0.0.1 at 2018-03-19 15:32:40 +0100
+Processing by TransakcjeJaskulasController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering transakcje_jaskulas/show.html.erb within layouts/application
+  Rendered transakcje_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 153ms (Views: 124.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:32:42 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 144ms (Views: 124.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:33:47 +0100
+Processing by TransakcjeJaskulasController#new as HTML
+  Rendering transakcje_jaskulas/new.html.erb within layouts/application
+  Rendered transakcje_jaskulas/_form.html.erb (2.0ms)
+  Rendered transakcje_jaskulas/new.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 169ms (Views: 146.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:33:56 +0100
+Processing by TransakcjeJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"bR/OYG2bnC/1EWsbMU9A0ID8xLbuZLCFKgQDxP/vZ6yq/+ADC66cWDzQ8Y6BB50UlO35tc8u/9jIlrrF5SWU9A==", "transakcje_jaskula"=>{"username"=>"asd1222", "kwota"=>"555", "data"=>"p"}, "commit"=>"Create Transakcje jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "transakcje_jaskulas" ("username", "kwota", "data", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["username", "asd1222"], ["kwota", 555], ["data", "p"], ["created_at", "2018-03-19 14:33:56.576393"], ["updated_at", "2018-03-19 14:33:56.576393"]]
+  [1m[35m (5.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/transakcje_jaskulas/2
+Completed 302 Found in 15ms (ActiveRecord: 7.0ms)
+
+
+Started GET "/transakcje_jaskulas/2" for 127.0.0.1 at 2018-03-19 15:33:56 +0100
+Processing by TransakcjeJaskulasController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering transakcje_jaskulas/show.html.erb within layouts/application
+  Rendered transakcje_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 142ms (Views: 114.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:33:58 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 147ms (Views: 126.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:36:44 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 158ms (Views: 135.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas/1/edit" for 127.0.0.1 at 2018-03-19 15:36:47 +0100
+Processing by TransakcjeJaskulasController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering transakcje_jaskulas/edit.html.erb within layouts/application
+  Rendered transakcje_jaskulas/_form.html.erb (2.0ms)
+  Rendered transakcje_jaskulas/edit.html.erb within layouts/application (29.0ms)
+Completed 200 OK in 173ms (Views: 147.4ms | ActiveRecord: 0.0ms)
+
+
+Started PATCH "/transakcje_jaskulas/1" for 127.0.0.1 at 2018-03-19 15:37:01 +0100
+Processing by TransakcjeJaskulasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"XjOCRoD/h0QPsHSKhkUp+MDaWpbJ/wMrycv9yPaXb3Rqx/EuXKoPWqn/PPiMvCdxW7jZY5Pz9O+NCTrtGTkxXg==", "transakcje_jaskula"=>{"username"=>"ilonka123", "kwota"=>"1200", "data"=>"19-03-2018"}, "commit"=>"Update Transakcje jaskula", "id"=>"1"}
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[33mUPDATE "transakcje_jaskulas" SET "data" = ?, "updated_at" = ? WHERE "transakcje_jaskulas"."id" = ?[0m  [["data", "19-03-2018"], ["updated_at", "2018-03-19 14:37:01.622381"], ["id", 1]]
+  [1m[35m (5.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/transakcje_jaskulas/1
+Completed 302 Found in 19ms (ActiveRecord: 7.0ms)
+
+
+Started GET "/transakcje_jaskulas/1" for 127.0.0.1 at 2018-03-19 15:37:01 +0100
+Processing by TransakcjeJaskulasController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering transakcje_jaskulas/show.html.erb within layouts/application
+  Rendered transakcje_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 145ms (Views: 119.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:37:04 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (1.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 147ms (Views: 124.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/transakcje_jaskulas/2" for 127.0.0.1 at 2018-03-19 15:37:06 +0100
+Processing by TransakcjeJaskulasController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering transakcje_jaskulas/show.html.erb within layouts/application
+  Rendered transakcje_jaskulas/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 142ms (Views: 116.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas/2/edit" for 127.0.0.1 at 2018-03-19 15:37:08 +0100
+Processing by TransakcjeJaskulasController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering transakcje_jaskulas/edit.html.erb within layouts/application
+  Rendered transakcje_jaskulas/_form.html.erb (3.0ms)
+  Rendered transakcje_jaskulas/edit.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 170ms (Views: 144.5ms | ActiveRecord: 0.0ms)
+
+
+Started PATCH "/transakcje_jaskulas/2" for 127.0.0.1 at 2018-03-19 15:37:19 +0100
+Processing by TransakcjeJaskulasController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZZ1UK9on45jDyFfc3f8APPRAD9k3nYfr9g6I+9mbbgbWWxmjLiSRhlE3KJx9AX30JU+660Fl4Vju9jJaswSnAA==", "transakcje_jaskula"=>{"username"=>"asd1222", "kwota"=>"555", "data"=>"18-03-2018"}, "commit"=>"Update Transakcje jaskula", "id"=>"2"}
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[33mUPDATE "transakcje_jaskulas" SET "data" = ?, "updated_at" = ? WHERE "transakcje_jaskulas"."id" = ?[0m  [["data", "18-03-2018"], ["updated_at", "2018-03-19 14:37:19.667116"], ["id", 2]]
+  [1m[35m (4.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/transakcje_jaskulas/2
+Completed 302 Found in 17ms (ActiveRecord: 5.0ms)
+
+
+Started GET "/transakcje_jaskulas/2" for 127.0.0.1 at 2018-03-19 15:37:19 +0100
+Processing by TransakcjeJaskulasController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering transakcje_jaskulas/show.html.erb within layouts/application
+  Rendered transakcje_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 147ms (Views: 119.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:37:22 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (1.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 137ms (Views: 117.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/transakcje_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:37:23 +0100
+Processing by TransakcjeJaskulasController#new as HTML
+  Rendering transakcje_jaskulas/new.html.erb within layouts/application
+  Rendered transakcje_jaskulas/_form.html.erb (2.0ms)
+  Rendered transakcje_jaskulas/new.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 160ms (Views: 139.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:37:41 +0100
+Processing by TransakcjeJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"SU1VcDEqITr41HW9hfEqeio1UmZz/7etvuHWqXJc/ZqOrXsTVx8hTTEV7yg1ufe+PiRvZVK1+PBcc2+oaJYOwg==", "transakcje_jaskula"=>{"username"=>"frrr2", "kwota"=>"333", "data"=>"02-03-2018"}, "commit"=>"Create Transakcje jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "transakcje_jaskulas" ("username", "kwota", "data", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["username", "frrr2"], ["kwota", 333], ["data", "02-03-2018"], ["created_at", "2018-03-19 14:37:41.326599"], ["updated_at", "2018-03-19 14:37:41.326599"]]
+  [1m[35m (4.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/transakcje_jaskulas/3
+Completed 302 Found in 16ms (ActiveRecord: 5.0ms)
+
+
+Started GET "/transakcje_jaskulas/3" for 127.0.0.1 at 2018-03-19 15:37:41 +0100
+Processing by TransakcjeJaskulasController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mTransakcjeJaskula Load (1.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering transakcje_jaskulas/show.html.erb within layouts/application
+  Rendered transakcje_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 147ms (Views: 119.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:37:47 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 143ms (Views: 122.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:37:51 +0100
+Processing by TransakcjeJaskulasController#new as HTML
+  Rendering transakcje_jaskulas/new.html.erb within layouts/application
+  Rendered transakcje_jaskulas/_form.html.erb (2.0ms)
+  Rendered transakcje_jaskulas/new.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 161ms (Views: 139.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:38:05 +0100
+Processing by TransakcjeJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qBFhZw98NzGftusFN8v68SQjFghl5/n7NOwcwbgy0htv8U8EaUk3RlZ3cZCHgyc1MDIrC0SttqbWfqXAovghQw==", "transakcje_jaskula"=>{"username"=>"sgdq12", "kwota"=>"541", "data"=>"01-01-2018"}, "commit"=>"Create Transakcje jaskula"}
+  [1m[35m (1.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "transakcje_jaskulas" ("username", "kwota", "data", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["username", "sgdq12"], ["kwota", 541], ["data", "01-01-2018"], ["created_at", "2018-03-19 14:38:05.552910"], ["updated_at", "2018-03-19 14:38:05.552910"]]
+  [1m[35m (4.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/transakcje_jaskulas/4
+Completed 302 Found in 17ms (ActiveRecord: 6.0ms)
+
+
+Started GET "/transakcje_jaskulas/4" for 127.0.0.1 at 2018-03-19 15:38:05 +0100
+Processing by TransakcjeJaskulasController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mTransakcjeJaskula Load (1.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  Rendering transakcje_jaskulas/show.html.erb within layouts/application
+  Rendered transakcje_jaskulas/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 152ms (Views: 126.8ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:38:07 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 139ms (Views: 117.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas/new" for 127.0.0.1 at 2018-03-19 15:38:09 +0100
+Processing by TransakcjeJaskulasController#new as HTML
+  Rendering transakcje_jaskulas/new.html.erb within layouts/application
+  Rendered transakcje_jaskulas/_form.html.erb (2.0ms)
+  Rendered transakcje_jaskulas/new.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 171ms (Views: 148.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:38:28 +0100
+Processing by TransakcjeJaskulasController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"JLC39+szyZ8JEBm2X6kJYFQKtIFzD2kV3hLozhMK5qvjUJmUjQbJ6MDRgyPv4dSkQBuJglJFJkg8gFHPCcAV8w==", "transakcje_jaskula"=>{"username"=>"psvnia0", "kwota"=>"1111", "data"=>"20-12-2017"}, "commit"=>"Create Transakcje jaskula"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "transakcje_jaskulas" ("username", "kwota", "data", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["username", "psvnia0"], ["kwota", 1111], ["data", "20-12-2017"], ["created_at", "2018-03-19 14:38:28.303306"], ["updated_at", "2018-03-19 14:38:28.303306"]]
+  [1m[35m (5.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/transakcje_jaskulas/5
+Completed 302 Found in 15ms (ActiveRecord: 6.1ms)
+
+
+Started GET "/transakcje_jaskulas/5" for 127.0.0.1 at 2018-03-19 15:38:28 +0100
+Processing by TransakcjeJaskulasController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT  "transakcje_jaskulas".* FROM "transakcje_jaskulas" WHERE "transakcje_jaskulas"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  Rendering transakcje_jaskulas/show.html.erb within layouts/application
+  Rendered transakcje_jaskulas/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 140ms (Views: 117.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:38:30 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (1.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 144ms (Views: 122.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/transakcje_jaskulas" for 127.0.0.1 at 2018-03-19 15:38:46 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 150ms (Views: 126.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:38:52 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 143ms (Views: 120.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:00 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 148ms (Views: 123.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:01 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 142ms (Views: 117.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:01 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 149ms (Views: 128.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:02 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 233ms (Views: 210.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:02 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 141ms (Views: 115.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:02 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 142ms (Views: 118.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:03 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 141ms (Views: 115.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:03 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 140ms (Views: 116.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:04 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 142ms (Views: 120.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:04 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 252ms (Views: 223.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:39:05 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 150ms (Views: 125.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:39:08 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 135ms (Views: 113.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:39:11 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 138ms (Views: 117.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/czwartaJaskula" for 127.0.0.1 at 2018-03-19 15:39:12 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 145ms (Views: 122.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:43:18 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 160ms (Views: 136.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:43:20 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 139ms (Views: 115.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:43:27 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 136ms (Views: 114.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/czwartaJaskula" for 127.0.0.1 at 2018-03-19 15:43:34 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 143ms (Views: 119.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:43:39 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 144ms (Views: 120.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:44:09 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 146ms (Views: 122.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:44:10 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 145ms (Views: 124.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:44:11 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 146ms (Views: 125.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/czwartaJaskula" for 127.0.0.1 at 2018-03-19 15:44:12 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 148ms (Views: 125.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:44:13 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (1.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 233ms (Views: 207.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:44:14 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 150ms (Views: 124.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:44:14 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 139ms (Views: 116.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:51:03 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 145ms (Views: 122.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:51:06 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 142ms (Views: 120.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:51:09 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 137ms (Views: 117.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/czwartaJaskula" for 127.0.0.1 at 2018-03-19 15:51:12 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 139ms (Views: 118.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:51:16 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 138ms (Views: 114.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:51:17 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 135ms (Views: 110.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:51:18 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 133ms (Views: 111.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:51:20 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 144ms (Views: 123.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:51:20 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 140ms (Views: 117.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:51:21 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 137ms (Views: 116.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/czwartaJaskula" for 127.0.0.1 at 2018-03-19 15:51:22 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 144ms (Views: 122.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:51:23 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 140ms (Views: 116.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:51:24 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (0.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 137ms (Views: 114.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:51:24 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 152ms (Views: 123.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:51:25 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (1.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 154ms (Views: 115.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/czwartaJaskula" for 127.0.0.1 at 2018-03-19 15:51:25 +0100
+Processing by TransakcjeJaskulasController#index as HTML
+  Rendering transakcje_jaskulas/index.html.erb within layouts/application
+  [1m[36mTransakcjeJaskula Load (0.0ms)[0m  [1m[34mSELECT "transakcje_jaskulas".* FROM "transakcje_jaskulas"[0m
+  Rendered transakcje_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 146ms (Views: 121.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trzeciaJaskula" for 127.0.0.1 at 2018-03-19 15:51:25 +0100
+Processing by ZasobyJaskulasController#index as HTML
+  Rendering zasoby_jaskulas/index.html.erb within layouts/application
+  [1m[36mZasobyJaskula Load (0.0ms)[0m  [1m[34mSELECT "zasoby_jaskulas".* FROM "zasoby_jaskulas"[0m
+  Rendered zasoby_jaskulas/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 142ms (Views: 119.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/drugaJaskula" for 127.0.0.1 at 2018-03-19 15:51:26 +0100
+Processing by KlienciJaskulasController#index as HTML
+  Rendering klienci_jaskulas/index.html.erb within layouts/application
+  [1m[36mKlienciJaskula Load (1.0ms)[0m  [1m[34mSELECT "klienci_jaskulas".* FROM "klienci_jaskulas"[0m
+  Rendered klienci_jaskulas/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 140ms (Views: 110.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/pierwszaJaskula" for 127.0.0.1 at 2018-03-19 15:51:27 +0100
+Processing by InfoJaskulaController#wyswietl as HTML
+  Rendering info_jaskula/wyswietl.html.erb within layouts/application
+  Rendered info_jaskula/wyswietl.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 138ms (Views: 113.3ms | ActiveRecord: 0.0ms)
+
+

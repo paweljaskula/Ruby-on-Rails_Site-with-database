@@ -1,0 +1,2 @@
+class TransakcjeJaskula < ApplicationRecord
+end

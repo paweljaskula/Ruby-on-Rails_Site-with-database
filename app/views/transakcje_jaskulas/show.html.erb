@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Username:</strong>
+  <%= @transakcje_jaskula.username %>
+</p>
+
+<p>
+  <strong>Kwota:</strong>
+  <%= @transakcje_jaskula.kwota %>
+</p>
+
+<p>
+  <strong>Data:</strong>
+  <%= @transakcje_jaskula.data %>
+</p>
+
+<%= link_to 'Edit', edit_transakcje_jaskula_path(@transakcje_jaskula) %> |
+<%= link_to 'Back', transakcje_jaskulas_path %>

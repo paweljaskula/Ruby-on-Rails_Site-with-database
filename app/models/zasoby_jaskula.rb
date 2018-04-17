@@ -1,0 +1,2 @@
+class ZasobyJaskula < ApplicationRecord
+end

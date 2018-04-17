@@ -1,0 +1,2 @@
+module InfoJaskulaHelper
+end

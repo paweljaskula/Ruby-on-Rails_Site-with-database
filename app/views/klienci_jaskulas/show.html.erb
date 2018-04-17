@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Imie:</strong>
+  <%= @klienci_jaskula.imie %>
+</p>
+
+<p>
+  <strong>Nazwisko:</strong>
+  <%= @klienci_jaskula.nazwisko %>
+</p>
+
+<p>
+  <strong>Wiek:</strong>
+  <%= @klienci_jaskula.wiek %>
+</p>
+
+<%= link_to 'Edit', edit_klienci_jaskula_path(@klienci_jaskula) %> |
+<%= link_to 'Back', klienci_jaskulas_path %>

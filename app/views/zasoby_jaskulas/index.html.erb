@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Tabela - Cennik</title>
+    <style type="text/css">
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.content{
+  padding-top: 50px;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    width: 120px;
+}
+#id{
+  width: 20px;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+    </style>
+    
+  </head>
+  <body>
+    <div class="content">
+      <h1><b>Jaskula Paweł 44185</b></h1>
+      <h4>Tabela - Cennik</h4>
+    </div>
+    <table>
+      <tr>
+          <th>Nazwa kursu</th>
+          <th>Cena</th>
+          <th></th>
+          <th></th>
+          <th></th>
+    </tr>
+    </table>
+    <% @zasoby_jaskulas.each do |zasoby_jaskula| %>
+    <table>
+      
+      <tr>
+        <tr>
+        <td><%= zasoby_jaskula.nazwa %></td>
+        <td><%= zasoby_jaskula.cena %> zł</td>
+        <td><%= link_to 'Show', zasoby_jaskula %></td>
+        <td><%= link_to 'Edit', edit_zasoby_jaskula_path(zasoby_jaskula) %></td>
+        <td><%= link_to 'Destroy', zasoby_jaskula, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    </table>
+    <% end %>
+    <%= link_to 'New Zasoby Jaskula', new_zasoby_jaskula_path %>
+    <footer>
+      
+      <ul>
+          <li><a href="indexJaskula">Główna</a></li>
+          <li><a href="pierwszaJaskula">Informacje</a></li>
+          <li><a href="drugaJaskula">Klienci</a></li>
+          <li class="active"><a href="trzeciaJaskula">Cennik</a></li>
+          <li><a href="czwartaJaskula">Transakcje</a></li>
+          
+      </ul>
+    </footer>
+  </body>
+</html>
+
+
+
